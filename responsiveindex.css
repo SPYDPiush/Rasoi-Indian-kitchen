@@ -1,0 +1,106 @@
+@media (max-width:1024px) {
+    /*  about section */
+}
+
+@media (max-width: 991px) {
+    /* custom class */
+    .text-content{
+        width: 100%;
+    }
+
+    /*   nabvbar brand */
+
+    .navigation-wrap .container img{
+        height: 3.8125rem;
+    }
+
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+
+    /* banner design */
+    .top-banner{
+        padding: 9.375rem 0 9.375rem;
+    }
+
+    /* ----- testimonial----- */
+
+    .testimonial-section .carousel-item .carousel-caption p{
+        padding: 0;
+
+    }
+
+    /* -form -control======= */
+
+    .newsletter{
+        width: 75%;
+
+    }
+
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+}
+
+
+
+@media (max-width :776px) {
+
+    /* custom class */
+    h1{
+        font-size: 2.8rem;
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.06325rem;
+    }
+
+    /*  top-banner */
+    .top-banner{
+        padding: 10.875rem 0 9.375rem;
+    }
+
+    /* -- story section */
+    .story-section{
+        height: auto;
+        padding:3rem 0;
+    }
+
+
+    /* ----------testimonial section-------- */
+
+    .testimonial-section .carousel-item {
+        padding: 11rem 3.125rem;
+    }
+
+    /* ----form-control---------- */
+
+    /* .newsletter{
+        width: 75%;
+
+    }
+
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    } */
+
+
+
+
+}  
+
+@media (max-width :330px) {
+    /* testimonial section----------- */
+
+    .testimonial-section .carousel-item{
+        padding: 13rem 3.125rem;
+    }
+    
+}
