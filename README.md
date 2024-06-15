@@ -1,1 +1,1 @@
-VISIT: [https://spydpiush.github.io/Rasoi-Indian-kitchen/](Rasoi)
+VISIT: [Rasoi](https://spydpiush.github.io/Rasoi-Indian-kitchen/)
